@@ -1,0 +1,1167 @@
+{
+    "data": {
+        "airSearchResp": {
+            "isFireFly": true,
+            "airline": [
+                {
+                    "code": "SG",
+                    "name": "SpiceJet",
+                    "smallImage": "airLogo_SG.png"
+                }
+            ],
+            "airport": [
+                {
+                    "code": "DBR",
+                    "name": "Darbhanga Airport",
+                    "city": "Darbhanga",
+                    "isoCountryCode": "IN",
+                    "state": null,
+                    "country": "India"
+                },
+                {
+                    "code": "DEL",
+                    "name": "Indira Gandhi Intl Airport",
+                    "city": "New Delhi",
+                    "isoCountryCode": "IN",
+                    "state": null,
+                    "country": "India"
+                },
+                {
+                    "code": "BOM",
+                    "name": "Chhatrapati Shivaji Maharaj Intl Airport",
+                    "city": "Mumbai",
+                    "isoCountryCode": "IN",
+                    "state": null,
+                    "country": "India"
+                }
+            ],
+            "priceGuidance": {
+                "high": null,
+                "low": null,
+                "isEligible": false
+            },
+            "listingsMetaData": {
+                "resultCode": null,
+                "processorID": null,
+                "clientSessionId": null,
+                "searchId": null,
+                "searchSessionKey": "1ad9e9aa-0ab4-4446-934f-a119e9f0c68e",
+                "requestId": "6400aede-1cd0-4e13-979b-e0f9af72a5c0",
+                "hasExpressDeal": false,
+                "hasAirCanada": null,
+                "hasUpsellOptions": false,
+                "hasClosedUserGroupDeals": null,
+                "cheapestFlightNonStop": null,
+                "minimumRetailPrice": 107.76,
+                "minDurationPrice": null,
+                "minLayoverInMinutes": null,
+                "minDurationInMinutes": null,
+                "nonStopPrice": 107.76,
+                "tripType": "RT",
+                "minVoidWindowClose": null,
+                "lowerBound": 1,
+                "upperBound": 30,
+                "totalItineraries": 6,
+                "totalFilteredItineraries": 5,
+                "creditAvailableSummary": null
+            },
+            "error": null,
+            "displayableCarriers": [],
+            "brandReference": [
+                {
+                    "brandId": "SG_COUPONFARE2",
+                    "name": "COUPONFARE2",
+                    "tier": null,
+                    "brandAttributes": []
+                }
+            ],
+            "listings": [
+                {
+                    "isExchangeFlight": false,
+                    "id": "d83a433da59c4798b8d87e6330f75a23",
+                    "groupId": null,
+                    "refKey": null,
+                    "refId": null,
+                    "candidateKey": null,
+                    "itemKey": "d83a433da59c4798b8d87e6330f75a23",
+                    "priceKey": "CgJ2MRIkMWFkOWU5YWEtMGFiNC00NDQ2LTkzNGYtYTExOWU5ZjBjNjhlGAEiB0NMQVNTSUMqBQi3BxABMgVndXNlNDowV09SS0ZMT1dfSURfMWI4YWQ4YzMtM2M5OS00NDg0LTlhMDItOThkMGYwMjBkYTBjQg4KCjE3MDY3ODY2ODkQIw",
+                    "saleSavings": null,
+                    "isSaleEligible": false,
+                    "seatsAvailable": 4,
+                    "isFused": false,
+                    "isCugEligible": null,
+                    "isFareFamily": null,
+                    "isBEC": false,
+                    "isUABE": null,
+                    "candidateId": null,
+                    "listingPosition": 1,
+                    "upsellNotice": null,
+                    "fareBrands": null,
+                    "price": [
+                        {
+                            "type": "TOTAL_PRICE",
+                            "currencyCode": "USD",
+                            "currencySymbol": "",
+                            "amount": 107.76,
+                            "dollar": "107",
+                            "cents": "76",
+                            "creditSummary": null,
+                            "packagesPricingInfo": null
+                        },
+                        {
+                            "type": "AVG_PRICE",
+                            "currencyCode": "USD",
+                            "currencySymbol": "",
+                            "amount": 107.76,
+                            "dollar": "107",
+                            "cents": "76",
+                            "creditSummary": null,
+                            "packagesPricingInfo": null
+                        },
+                        {
+                            "type": "ADULT",
+                            "currencyCode": "USD",
+                            "currencySymbol": "",
+                            "amount": 107.76,
+                            "dollar": "107",
+                            "cents": "76",
+                            "creditSummary": null,
+                            "packagesPricingInfo": null
+                        }
+                    ],
+                    "allFareBrandNames": [
+                        "COUPONFARE2"
+                    ],
+                    "allFareBrandAttributes": [],
+                    "alternateDatesTexts": null,
+                    "merchandising": [
+                        "CHEAPEST",
+                        "CHEAPEST_NON_STOP"
+                    ],
+                    "openJaw": null,
+                    "marketingAirlines": [
+                        {
+                            "code": "SG",
+                            "name": "SpiceJet",
+                            "image": "airLogo_SG.png",
+                            "covidAttrs": null
+                        }
+                    ],
+                    "airlines": [
+                        {
+                            "marketingAirline": null,
+                            "name": "SpiceJet",
+                            "code": "SG",
+                            "image": "airLogo_SG.png",
+                            "covidAttrs": null
+                        }
+                    ],
+                    "slices": [
+                        {
+                            "id": 1,
+                            "merchandising": [
+                                "SHORTEST_DURATION"
+                            ],
+                            "uniqueSliceId": null,
+                            "sliceKey": "7042024-03-25T20:40SGSGBOMDEL0",
+                            "isSelected": null,
+                            "duration": "2h 0m",
+                            "durationInMinutes": "120",
+                            "stops": 0,
+                            "layoverLocations": null,
+                            "isOvernight": false,
+                            "overnightDays": 0,
+                            "layoverDurations": null,
+                            "totalLayoverDurationsInMinutes": null,
+                            "displayText": {
+                                "operatedByText": null
+                            },
+                            "arrival": null,
+                            "departing": null,
+                            "departInfo": {
+                                "airport": {
+                                    "code": "BOM",
+                                    "name": "Chhatrapati Shivaji Maharaj Intl Airport",
+                                    "isoCountryCode": "IN",
+                                    "displayLocation": "Mumbai, India"
+                                },
+                                "time": {
+                                    "dateTime": "2024-03-25T20:40:00",
+                                    "displayTime": "08:40p",
+                                    "displayDate": "03/25"
+                                }
+                            },
+                            "arrivalInfo": {
+                                "airport": {
+                                    "code": "DEL",
+                                    "name": "Indira Gandhi Intl Airport",
+                                    "isoCountryCode": "IN",
+                                    "displayLocation": "New Delhi, India"
+                                },
+                                "time": {
+                                    "dateTime": "2024-03-25T22:40:00",
+                                    "displayTime": "10:40p",
+                                    "displayDate": "03/25"
+                                }
+                            },
+                            "layoverInfo": [],
+                            "segments": [
+                                {
+                                    "stopQuantity": 0,
+                                    "isOvernight": false,
+                                    "seatsAvailable": 4,
+                                    "equipment": "7M8",
+                                    "id": 2,
+                                    "uniqueSegId": null,
+                                    "airport": null,
+                                    "time": null,
+                                    "datetime": null,
+                                    "title": null,
+                                    "marketingAirline": "SG",
+                                    "operatingAirline": "SG",
+                                    "flightNumber": "704",
+                                    "formattedDate": null,
+                                    "cabinClass": "ECO",
+                                    "isBEC": false,
+                                    "isUABE": null,
+                                    "upsellNotice": "",
+                                    "duration": 120,
+                                    "isSubjectToGovtApproval": false,
+                                    "fareBasisCode": null,
+                                    "departInfo": {
+                                        "airport": {
+                                            "code": "BOM",
+                                            "name": "Chhatrapati Shivaji Maharaj Intl Airport"
+                                        },
+                                        "time": {
+                                            "dateTime": "2024-03-25T20:40:00",
+                                            "displayTime": "08:40p",
+                                            "displayDate": "03/25"
+                                        }
+                                    },
+                                    "arrivalInfo": {
+                                        "airport": {
+                                            "code": "DEL",
+                                            "name": "Indira Gandhi Intl Airport"
+                                        },
+                                        "time": {
+                                            "dateTime": "2024-03-25T22:40:00",
+                                            "displayTime": "10:40p",
+                                            "displayDate": "03/25"
+                                        }
+                                    }
+                                }
+                            ]
+                        }
+                    ],
+                    "voidWindowInfo": null,
+                    "totalPriceWithDecimal": {
+                        "dollar": "107",
+                        "cents": "76",
+                        "price": 107.76
+                    },
+                    "operatedByAirlines": []
+                },
+                {
+                    "isExchangeFlight": false,
+                    "id": "f6d8e4f15f77492891c30a31c11ed496",
+                    "groupId": null,
+                    "refKey": null,
+                    "refId": null,
+                    "candidateKey": null,
+                    "itemKey": "f6d8e4f15f77492891c30a31c11ed496",
+                    "priceKey": "CgJ2MRIkMWFkOWU5YWEtMGFiNC00NDQ2LTkzNGYtYTExOWU5ZjBjNjhlGAEiB0NMQVNTSUMqBQjAARABMgVndXNlNDowV09SS0ZMT1dfSURfMWI4YWQ4YzMtM2M5OS00NDg0LTlhMDItOThkMGYwMjBkYTBjQg4KCjE3MDY3ODY2ODkQIw",
+                    "saleSavings": null,
+                    "isSaleEligible": false,
+                    "seatsAvailable": 4,
+                    "isFused": false,
+                    "isCugEligible": null,
+                    "isFareFamily": null,
+                    "isBEC": false,
+                    "isUABE": null,
+                    "candidateId": null,
+                    "listingPosition": 2,
+                    "upsellNotice": null,
+                    "fareBrands": null,
+                    "price": [
+                        {
+                            "type": "TOTAL_PRICE",
+                            "currencyCode": "USD",
+                            "currencySymbol": "",
+                            "amount": 112.98,
+                            "dollar": "112",
+                            "cents": "98",
+                            "creditSummary": null,
+                            "packagesPricingInfo": null
+                        },
+                        {
+                            "type": "AVG_PRICE",
+                            "currencyCode": "USD",
+                            "currencySymbol": "",
+                            "amount": 112.98,
+                            "dollar": "112",
+                            "cents": "98",
+                            "creditSummary": null,
+                            "packagesPricingInfo": null
+                        },
+                        {
+                            "type": "ADULT",
+                            "currencyCode": "USD",
+                            "currencySymbol": "",
+                            "amount": 112.98,
+                            "dollar": "112",
+                            "cents": "98",
+                            "creditSummary": null,
+                            "packagesPricingInfo": null
+                        }
+                    ],
+                    "allFareBrandNames": [
+                        "COUPONFARE2"
+                    ],
+                    "allFareBrandAttributes": [],
+                    "alternateDatesTexts": null,
+                    "merchandising": [],
+                    "openJaw": null,
+                    "marketingAirlines": [
+                        {
+                            "code": "SG",
+                            "name": "SpiceJet",
+                            "image": "airLogo_SG.png",
+                            "covidAttrs": null
+                        }
+                    ],
+                    "airlines": [
+                        {
+                            "marketingAirline": null,
+                            "name": "SpiceJet",
+                            "code": "SG",
+                            "image": "airLogo_SG.png",
+                            "covidAttrs": null
+                        }
+                    ],
+                    "slices": [
+                        {
+                            "id": 1,
+                            "merchandising": [
+                                "NIGHT_OWL"
+                            ],
+                            "uniqueSliceId": null,
+                            "sliceKey": "81122024-03-25T01:50SGSGBOMDEL0",
+                            "isSelected": null,
+                            "duration": "2h 10m",
+                            "durationInMinutes": "130",
+                            "stops": 0,
+                            "layoverLocations": null,
+                            "isOvernight": false,
+                            "overnightDays": 0,
+                            "layoverDurations": null,
+                            "totalLayoverDurationsInMinutes": null,
+                            "displayText": {
+                                "operatedByText": null
+                            },
+                            "arrival": null,
+                            "departing": null,
+                            "departInfo": {
+                                "airport": {
+                                    "code": "BOM",
+                                    "name": "Chhatrapati Shivaji Maharaj Intl Airport",
+                                    "isoCountryCode": "IN",
+                                    "displayLocation": "Mumbai, India"
+                                },
+                                "time": {
+                                    "dateTime": "2024-03-25T01:50:00",
+                                    "displayTime": "01:50a",
+                                    "displayDate": "03/25"
+                                }
+                            },
+                            "arrivalInfo": {
+                                "airport": {
+                                    "code": "DEL",
+                                    "name": "Indira Gandhi Intl Airport",
+                                    "isoCountryCode": "IN",
+                                    "displayLocation": "New Delhi, India"
+                                },
+                                "time": {
+                                    "dateTime": "2024-03-25T04:00:00",
+                                    "displayTime": "04:00a",
+                                    "displayDate": "03/25"
+                                }
+                            },
+                            "layoverInfo": [],
+                            "segments": [
+                                {
+                                    "stopQuantity": 0,
+                                    "isOvernight": false,
+                                    "seatsAvailable": 4,
+                                    "equipment": "737",
+                                    "id": 2,
+                                    "uniqueSegId": null,
+                                    "airport": null,
+                                    "time": null,
+                                    "datetime": null,
+                                    "title": null,
+                                    "marketingAirline": "SG",
+                                    "operatingAirline": "SG",
+                                    "flightNumber": "8112",
+                                    "formattedDate": null,
+                                    "cabinClass": "ECO",
+                                    "isBEC": false,
+                                    "isUABE": null,
+                                    "upsellNotice": "",
+                                    "duration": 130,
+                                    "isSubjectToGovtApproval": false,
+                                    "fareBasisCode": null,
+                                    "departInfo": {
+                                        "airport": {
+                                            "code": "BOM",
+                                            "name": "Chhatrapati Shivaji Maharaj Intl Airport"
+                                        },
+                                        "time": {
+                                            "dateTime": "2024-03-25T01:50:00",
+                                            "displayTime": "01:50a",
+                                            "displayDate": "03/25"
+                                        }
+                                    },
+                                    "arrivalInfo": {
+                                        "airport": {
+                                            "code": "DEL",
+                                            "name": "Indira Gandhi Intl Airport"
+                                        },
+                                        "time": {
+                                            "dateTime": "2024-03-25T04:00:00",
+                                            "displayTime": "04:00a",
+                                            "displayDate": "03/25"
+                                        }
+                                    }
+                                }
+                            ]
+                        }
+                    ],
+                    "voidWindowInfo": null,
+                    "totalPriceWithDecimal": {
+                        "dollar": "112",
+                        "cents": "98",
+                        "price": 112.98
+                    },
+                    "operatedByAirlines": []
+                },
+                {
+                    "isExchangeFlight": false,
+                    "id": "b1b0f9fce6e14edba72889bf925bc664",
+                    "groupId": null,
+                    "refKey": null,
+                    "refId": null,
+                    "candidateKey": null,
+                    "itemKey": "b1b0f9fce6e14edba72889bf925bc664",
+                    "priceKey": "CgJ2MRIkMWFkOWU5YWEtMGFiNC00NDQ2LTkzNGYtYTExOWU5ZjBjNjhlGAEiB0NMQVNTSUMqBQiqBBABMgVndXNlNDowV09SS0ZMT1dfSURfMWI4YWQ4YzMtM2M5OS00NDg0LTlhMDItOThkMGYwMjBkYTBjQg4KCjE3MDY3ODY2ODkQIw",
+                    "saleSavings": null,
+                    "isSaleEligible": false,
+                    "seatsAvailable": 4,
+                    "isFused": false,
+                    "isCugEligible": null,
+                    "isFareFamily": null,
+                    "isBEC": false,
+                    "isUABE": null,
+                    "candidateId": null,
+                    "listingPosition": 3,
+                    "upsellNotice": null,
+                    "fareBrands": null,
+                    "price": [
+                        {
+                            "type": "TOTAL_PRICE",
+                            "currencyCode": "USD",
+                            "currencySymbol": "",
+                            "amount": 112.98,
+                            "dollar": "112",
+                            "cents": "98",
+                            "creditSummary": null,
+                            "packagesPricingInfo": null
+                        },
+                        {
+                            "type": "AVG_PRICE",
+                            "currencyCode": "USD",
+                            "currencySymbol": "",
+                            "amount": 112.98,
+                            "dollar": "112",
+                            "cents": "98",
+                            "creditSummary": null,
+                            "packagesPricingInfo": null
+                        },
+                        {
+                            "type": "ADULT",
+                            "currencyCode": "USD",
+                            "currencySymbol": "",
+                            "amount": 112.98,
+                            "dollar": "112",
+                            "cents": "98",
+                            "creditSummary": null,
+                            "packagesPricingInfo": null
+                        }
+                    ],
+                    "allFareBrandNames": [
+                        "COUPONFARE2"
+                    ],
+                    "allFareBrandAttributes": [],
+                    "alternateDatesTexts": null,
+                    "merchandising": [],
+                    "openJaw": null,
+                    "marketingAirlines": [
+                        {
+                            "code": "SG",
+                            "name": "SpiceJet",
+                            "image": "airLogo_SG.png",
+                            "covidAttrs": null
+                        }
+                    ],
+                    "airlines": [
+                        {
+                            "marketingAirline": null,
+                            "name": "SpiceJet",
+                            "code": "SG",
+                            "image": "airLogo_SG.png",
+                            "covidAttrs": null
+                        }
+                    ],
+                    "slices": [
+                        {
+                            "id": 1,
+                            "merchandising": [],
+                            "uniqueSliceId": null,
+                            "sliceKey": "2522024-03-25T07:00SGSGBOMDEL0",
+                            "isSelected": null,
+                            "duration": "2h 15m",
+                            "durationInMinutes": "135",
+                            "stops": 0,
+                            "layoverLocations": null,
+                            "isOvernight": false,
+                            "overnightDays": 0,
+                            "layoverDurations": null,
+                            "totalLayoverDurationsInMinutes": null,
+                            "displayText": {
+                                "operatedByText": null
+                            },
+                            "arrival": null,
+                            "departing": null,
+                            "departInfo": {
+                                "airport": {
+                                    "code": "BOM",
+                                    "name": "Chhatrapati Shivaji Maharaj Intl Airport",
+                                    "isoCountryCode": "IN",
+                                    "displayLocation": "Mumbai, India"
+                                },
+                                "time": {
+                                    "dateTime": "2024-03-25T07:00:00",
+                                    "displayTime": "07:00a",
+                                    "displayDate": "03/25"
+                                }
+                            },
+                            "arrivalInfo": {
+                                "airport": {
+                                    "code": "DEL",
+                                    "name": "Indira Gandhi Intl Airport",
+                                    "isoCountryCode": "IN",
+                                    "displayLocation": "New Delhi, India"
+                                },
+                                "time": {
+                                    "dateTime": "2024-03-25T09:15:00",
+                                    "displayTime": "09:15a",
+                                    "displayDate": "03/25"
+                                }
+                            },
+                            "layoverInfo": [],
+                            "segments": [
+                                {
+                                    "stopQuantity": 0,
+                                    "isOvernight": false,
+                                    "seatsAvailable": 4,
+                                    "equipment": "737",
+                                    "id": 2,
+                                    "uniqueSegId": null,
+                                    "airport": null,
+                                    "time": null,
+                                    "datetime": null,
+                                    "title": null,
+                                    "marketingAirline": "SG",
+                                    "operatingAirline": "SG",
+                                    "flightNumber": "252",
+                                    "formattedDate": null,
+                                    "cabinClass": "ECO",
+                                    "isBEC": false,
+                                    "isUABE": null,
+                                    "upsellNotice": "",
+                                    "duration": 135,
+                                    "isSubjectToGovtApproval": false,
+                                    "fareBasisCode": null,
+                                    "departInfo": {
+                                        "airport": {
+                                            "code": "BOM",
+                                            "name": "Chhatrapati Shivaji Maharaj Intl Airport"
+                                        },
+                                        "time": {
+                                            "dateTime": "2024-03-25T07:00:00",
+                                            "displayTime": "07:00a",
+                                            "displayDate": "03/25"
+                                        }
+                                    },
+                                    "arrivalInfo": {
+                                        "airport": {
+                                            "code": "DEL",
+                                            "name": "Indira Gandhi Intl Airport"
+                                        },
+                                        "time": {
+                                            "dateTime": "2024-03-25T09:15:00",
+                                            "displayTime": "09:15a",
+                                            "displayDate": "03/25"
+                                        }
+                                    }
+                                }
+                            ]
+                        }
+                    ],
+                    "voidWindowInfo": null,
+                    "totalPriceWithDecimal": {
+                        "dollar": "112",
+                        "cents": "98",
+                        "price": 112.98
+                    },
+                    "operatedByAirlines": []
+                },
+                {
+                    "isExchangeFlight": false,
+                    "id": "dd98adc8ab234d3bb5b1273cc3144917",
+                    "groupId": null,
+                    "refKey": null,
+                    "refId": null,
+                    "candidateKey": null,
+                    "itemKey": "dd98adc8ab234d3bb5b1273cc3144917",
+                    "priceKey": "CgJ2MRIkMWFkOWU5YWEtMGFiNC00NDQ2LTkzNGYtYTExOWU5ZjBjNjhlGAEiB0NMQVNTSUMqBQj3AxABMgVndXNlNDowV09SS0ZMT1dfSURfMWI4YWQ4YzMtM2M5OS00NDg0LTlhMDItOThkMGYwMjBkYTBjQg4KCjE3MDY3ODY2ODkQIw",
+                    "saleSavings": null,
+                    "isSaleEligible": false,
+                    "seatsAvailable": 4,
+                    "isFused": false,
+                    "isCugEligible": null,
+                    "isFareFamily": null,
+                    "isBEC": false,
+                    "isUABE": null,
+                    "candidateId": null,
+                    "listingPosition": 4,
+                    "upsellNotice": null,
+                    "fareBrands": null,
+                    "price": [
+                        {
+                            "type": "TOTAL_PRICE",
+                            "currencyCode": "USD",
+                            "currencySymbol": "",
+                            "amount": 121.46,
+                            "dollar": "121",
+                            "cents": "46",
+                            "creditSummary": null,
+                            "packagesPricingInfo": null
+                        },
+                        {
+                            "type": "AVG_PRICE",
+                            "currencyCode": "USD",
+                            "currencySymbol": "",
+                            "amount": 121.46,
+                            "dollar": "121",
+                            "cents": "46",
+                            "creditSummary": null,
+                            "packagesPricingInfo": null
+                        },
+                        {
+                            "type": "ADULT",
+                            "currencyCode": "USD",
+                            "currencySymbol": "",
+                            "amount": 121.46,
+                            "dollar": "121",
+                            "cents": "46",
+                            "creditSummary": null,
+                            "packagesPricingInfo": null
+                        }
+                    ],
+                    "allFareBrandNames": [
+                        "COUPONFARE2"
+                    ],
+                    "allFareBrandAttributes": [],
+                    "alternateDatesTexts": null,
+                    "merchandising": [],
+                    "openJaw": null,
+                    "marketingAirlines": [
+                        {
+                            "code": "SG",
+                            "name": "SpiceJet",
+                            "image": "airLogo_SG.png",
+                            "covidAttrs": null
+                        }
+                    ],
+                    "airlines": [
+                        {
+                            "marketingAirline": null,
+                            "name": "SpiceJet",
+                            "code": "SG",
+                            "image": "airLogo_SG.png",
+                            "covidAttrs": null
+                        }
+                    ],
+                    "slices": [
+                        {
+                            "id": 1,
+                            "merchandising": [
+                                "SHORTEST_DURATION"
+                            ],
+                            "uniqueSliceId": null,
+                            "sliceKey": "87022024-03-25T09:40SGSGBOMDEL0",
+                            "isSelected": null,
+                            "duration": "2h 0m",
+                            "durationInMinutes": "120",
+                            "stops": 0,
+                            "layoverLocations": null,
+                            "isOvernight": false,
+                            "overnightDays": 0,
+                            "layoverDurations": null,
+                            "totalLayoverDurationsInMinutes": null,
+                            "displayText": {
+                                "operatedByText": null
+                            },
+                            "arrival": null,
+                            "departing": null,
+                            "departInfo": {
+                                "airport": {
+                                    "code": "BOM",
+                                    "name": "Chhatrapati Shivaji Maharaj Intl Airport",
+                                    "isoCountryCode": "IN",
+                                    "displayLocation": "Mumbai, India"
+                                },
+                                "time": {
+                                    "dateTime": "2024-03-25T09:40:00",
+                                    "displayTime": "09:40a",
+                                    "displayDate": "03/25"
+                                }
+                            },
+                            "arrivalInfo": {
+                                "airport": {
+                                    "code": "DEL",
+                                    "name": "Indira Gandhi Intl Airport",
+                                    "isoCountryCode": "IN",
+                                    "displayLocation": "New Delhi, India"
+                                },
+                                "time": {
+                                    "dateTime": "2024-03-25T11:40:00",
+                                    "displayTime": "11:40a",
+                                    "displayDate": "03/25"
+                                }
+                            },
+                            "layoverInfo": [],
+                            "segments": [
+                                {
+                                    "stopQuantity": 0,
+                                    "isOvernight": false,
+                                    "seatsAvailable": 4,
+                                    "equipment": "7M8",
+                                    "id": 2,
+                                    "uniqueSegId": null,
+                                    "airport": null,
+                                    "time": null,
+                                    "datetime": null,
+                                    "title": null,
+                                    "marketingAirline": "SG",
+                                    "operatingAirline": "SG",
+                                    "flightNumber": "8702",
+                                    "formattedDate": null,
+                                    "cabinClass": "ECO",
+                                    "isBEC": false,
+                                    "isUABE": null,
+                                    "upsellNotice": "",
+                                    "duration": 120,
+                                    "isSubjectToGovtApproval": false,
+                                    "fareBasisCode": null,
+                                    "departInfo": {
+                                        "airport": {
+                                            "code": "BOM",
+                                            "name": "Chhatrapati Shivaji Maharaj Intl Airport"
+                                        },
+                                        "time": {
+                                            "dateTime": "2024-03-25T09:40:00",
+                                            "displayTime": "09:40a",
+                                            "displayDate": "03/25"
+                                        }
+                                    },
+                                    "arrivalInfo": {
+                                        "airport": {
+                                            "code": "DEL",
+                                            "name": "Indira Gandhi Intl Airport"
+                                        },
+                                        "time": {
+                                            "dateTime": "2024-03-25T11:40:00",
+                                            "displayTime": "11:40a",
+                                            "displayDate": "03/25"
+                                        }
+                                    }
+                                }
+                            ]
+                        }
+                    ],
+                    "voidWindowInfo": null,
+                    "totalPriceWithDecimal": {
+                        "dollar": "121",
+                        "cents": "46",
+                        "price": 121.46
+                    },
+                    "operatedByAirlines": []
+                },
+                {
+                    "isExchangeFlight": false,
+                    "id": "4dd9134703a94f8eb7976f8be2f3afaa",
+                    "groupId": null,
+                    "refKey": null,
+                    "refId": null,
+                    "candidateKey": null,
+                    "itemKey": "4dd9134703a94f8eb7976f8be2f3afaa",
+                    "priceKey": "CgJ2MRIkMWFkOWU5YWEtMGFiNC00NDQ2LTkzNGYtYTExOWU5ZjBjNjhlGAEiB0NMQVNTSUMqBQizAhABMgVndXNlNDowV09SS0ZMT1dfSURfMWI4YWQ4YzMtM2M5OS00NDg0LTlhMDItOThkMGYwMjBkYTBjQg4KCjE3MDY3ODY2ODkQIw",
+                    "saleSavings": null,
+                    "isSaleEligible": false,
+                    "seatsAvailable": 4,
+                    "isFused": false,
+                    "isCugEligible": null,
+                    "isFareFamily": null,
+                    "isBEC": false,
+                    "isUABE": null,
+                    "candidateId": null,
+                    "listingPosition": 5,
+                    "upsellNotice": null,
+                    "fareBrands": null,
+                    "price": [
+                        {
+                            "type": "TOTAL_PRICE",
+                            "currencyCode": "USD",
+                            "currencySymbol": "",
+                            "amount": 199.75,
+                            "dollar": "199",
+                            "cents": "75",
+                            "creditSummary": null,
+                            "packagesPricingInfo": null
+                        },
+                        {
+                            "type": "AVG_PRICE",
+                            "currencyCode": "USD",
+                            "currencySymbol": "",
+                            "amount": 199.75,
+                            "dollar": "199",
+                            "cents": "75",
+                            "creditSummary": null,
+                            "packagesPricingInfo": null
+                        },
+                        {
+                            "type": "ADULT",
+                            "currencyCode": "USD",
+                            "currencySymbol": "",
+                            "amount": 199.75,
+                            "dollar": "199",
+                            "cents": "75",
+                            "creditSummary": null,
+                            "packagesPricingInfo": null
+                        }
+                    ],
+                    "allFareBrandNames": [
+                        "COUPONFARE2"
+                    ],
+                    "allFareBrandAttributes": [],
+                    "alternateDatesTexts": null,
+                    "merchandising": [],
+                    "openJaw": null,
+                    "marketingAirlines": [
+                        {
+                            "code": "SG",
+                            "name": "SpiceJet",
+                            "image": "airLogo_SG.png",
+                            "covidAttrs": null
+                        }
+                    ],
+                    "airlines": [
+                        {
+                            "marketingAirline": null,
+                            "name": "SpiceJet",
+                            "code": "SG",
+                            "image": "airLogo_SG.png",
+                            "covidAttrs": null
+                        }
+                    ],
+                    "slices": [
+                        {
+                            "id": 1,
+                            "merchandising": [],
+                            "uniqueSliceId": null,
+                            "sliceKey": "1152024-03-25T12:50SGSGBOMDBR0-7522024-03-26T11:40SGSGDBRDEL0",
+                            "isSelected": null,
+                            "duration": "25h 0m",
+                            "durationInMinutes": "1500",
+                            "stops": 1,
+                            "layoverLocations": null,
+                            "isOvernight": true,
+                            "overnightDays": 1,
+                            "layoverDurations": null,
+                            "totalLayoverDurationsInMinutes": null,
+                            "displayText": {
+                                "operatedByText": null
+                            },
+                            "arrival": null,
+                            "departing": null,
+                            "departInfo": {
+                                "airport": {
+                                    "code": "BOM",
+                                    "name": "Chhatrapati Shivaji Maharaj Intl Airport",
+                                    "isoCountryCode": "IN",
+                                    "displayLocation": "Mumbai, India"
+                                },
+                                "time": {
+                                    "dateTime": "2024-03-25T12:50:00",
+                                    "displayTime": "12:50p",
+                                    "displayDate": "03/25"
+                                }
+                            },
+                            "arrivalInfo": {
+                                "airport": {
+                                    "code": "DEL",
+                                    "name": "Indira Gandhi Intl Airport",
+                                    "isoCountryCode": "IN",
+                                    "displayLocation": "New Delhi, India"
+                                },
+                                "time": {
+                                    "dateTime": "2024-03-26T13:50:00",
+                                    "displayTime": "01:50p",
+                                    "displayDate": "03/26"
+                                }
+                            },
+                            "layoverInfo": [
+                                {
+                                    "id": 1,
+                                    "duration": "20h 30m",
+                                    "airport": {
+                                        "code": "DBR",
+                                        "name": "Darbhanga Airport"
+                                    }
+                                }
+                            ],
+                            "segments": [
+                                {
+                                    "stopQuantity": 0,
+                                    "isOvernight": false,
+                                    "seatsAvailable": 4,
+                                    "equipment": "7M8",
+                                    "id": 2,
+                                    "uniqueSegId": null,
+                                    "airport": null,
+                                    "time": null,
+                                    "datetime": null,
+                                    "title": null,
+                                    "marketingAirline": "SG",
+                                    "operatingAirline": "SG",
+                                    "flightNumber": "115",
+                                    "formattedDate": null,
+                                    "cabinClass": "ECO",
+                                    "isBEC": false,
+                                    "isUABE": null,
+                                    "upsellNotice": "",
+                                    "duration": 140,
+                                    "isSubjectToGovtApproval": false,
+                                    "fareBasisCode": null,
+                                    "departInfo": {
+                                        "airport": {
+                                            "code": "BOM",
+                                            "name": "Chhatrapati Shivaji Maharaj Intl Airport"
+                                        },
+                                        "time": {
+                                            "dateTime": "2024-03-25T12:50:00",
+                                            "displayTime": "12:50p",
+                                            "displayDate": "03/25"
+                                        }
+                                    },
+                                    "arrivalInfo": {
+                                        "airport": {
+                                            "code": "DBR",
+                                            "name": "Darbhanga Airport"
+                                        },
+                                        "time": {
+                                            "dateTime": "2024-03-25T15:10:00",
+                                            "displayTime": "03:10p",
+                                            "displayDate": "03/25"
+                                        }
+                                    }
+                                },
+                                {
+                                    "stopQuantity": 0,
+                                    "isOvernight": false,
+                                    "seatsAvailable": 4,
+                                    "equipment": "7M8",
+                                    "id": 3,
+                                    "uniqueSegId": null,
+                                    "airport": null,
+                                    "time": null,
+                                    "datetime": null,
+                                    "title": null,
+                                    "marketingAirline": "SG",
+                                    "operatingAirline": "SG",
+                                    "flightNumber": "752",
+                                    "formattedDate": null,
+                                    "cabinClass": "ECO",
+                                    "isBEC": false,
+                                    "isUABE": null,
+                                    "upsellNotice": "",
+                                    "duration": 130,
+                                    "isSubjectToGovtApproval": false,
+                                    "fareBasisCode": null,
+                                    "departInfo": {
+                                        "airport": {
+                                            "code": "DBR",
+                                            "name": "Darbhanga Airport"
+                                        },
+                                        "time": {
+                                            "dateTime": "2024-03-26T11:40:00",
+                                            "displayTime": "11:40a",
+                                            "displayDate": "03/26"
+                                        }
+                                    },
+                                    "arrivalInfo": {
+                                        "airport": {
+                                            "code": "DEL",
+                                            "name": "Indira Gandhi Intl Airport"
+                                        },
+                                        "time": {
+                                            "dateTime": "2024-03-26T13:50:00",
+                                            "displayTime": "01:50p",
+                                            "displayDate": "03/26"
+                                        }
+                                    }
+                                }
+                            ]
+                        }
+                    ],
+                    "voidWindowInfo": null,
+                    "totalPriceWithDecimal": {
+                        "dollar": "199",
+                        "cents": "75",
+                        "price": 199.75
+                    },
+                    "operatedByAirlines": []
+                }
+            ],
+            "filterDefaults": {
+                "DEFAULT_TAB_ITEMS": [
+                    {
+                        "label": "Stops",
+                        "name": "stops"
+                    },
+                    {
+                        "label": "Time",
+                        "name": "time"
+                    },
+                    {
+                        "label": "Airlines",
+                        "name": "airlines"
+                    },
+                    {
+                        "label": "Airports",
+                        "name": "airports"
+                    }
+                ],
+                "NUM_OF_STOPS": [
+                    {
+                        "primaryLabel": "nonstop",
+                        "value": "0",
+                        "checked": false,
+                        "secondaryLabel": "from $108",
+                        "wrapLabel": false,
+                        "disabled": false
+                    },
+                    {
+                        "primaryLabel": "up to 1 stop",
+                        "value": "1",
+                        "checked": false,
+                        "secondaryLabel": "$200",
+                        "wrapLabel": null,
+                        "disabled": false
+                    },
+                    {
+                        "primaryLabel": "up to 2 stops",
+                        "value": "7",
+                        "checked": false,
+                        "secondaryLabel": "",
+                        "wrapLabel": null,
+                        "disabled": true
+                    }
+                ],
+                "AIRLINES": [
+                    {
+                        "value": "SG",
+                        "primaryLabel": "SpiceJet",
+                        "secondaryLabel": "$108",
+                        "checked": true,
+                        "disabled": false
+                    }
+                ],
+                "AIRPORTS": [
+                    {
+                        "originAirports": [
+                            {
+                                "value": "BOM",
+                                "primaryLabel": "BOM - Chhatrapati Shivaji Maharaj Intl Airport",
+                                "disabled": true,
+                                "checked": true,
+                                "secondaryLabel": "$108",
+                                "minPrice": 107.76
+                            }
+                        ],
+                        "destinationAirports": [
+                            {
+                                "value": "DEL",
+                                "primaryLabel": "DEL - Indira Gandhi Intl Airport",
+                                "disabled": true,
+                                "checked": true,
+                                "secondaryLabel": "$108",
+                                "minPrice": 107.76
+                            }
+                        ]
+                    }
+                ],
+                "DEFAULT_TIME": [
+                    {
+                        "minTakeoffTime": 1711331400000,
+                        "maxTakeoffTime": 1711399200000,
+                        "minLandingTime": 1711339200000,
+                        "maxLandingTime": 1711406400000,
+                        "sliceDurationMin": 7200000,
+                        "sliceDurationMax": 90000000,
+                        "inputDurationValue": 90000000,
+                        "sliceRefId": 2,
+                        "destinationCode": [
+                            "DEL"
+                        ],
+                        "originCode": [
+                            "BOM"
+                        ]
+                    }
+                ],
+                "TIME": [
+                    {
+                        "minTakeoffTime": 1711331400000,
+                        "maxTakeoffTime": 1711399200000,
+                        "minLandingTime": 1711339200000,
+                        "maxLandingTime": 1711406400000,
+                        "sliceDurationMin": 7200000,
+                        "sliceDurationMax": 90000000,
+                        "inputDurationValue": 90000000,
+                        "sliceRefId": 2,
+                        "destinationCode": [
+                            "DEL"
+                        ],
+                        "originCode": [
+                            "BOM"
+                        ]
+                    }
+                ],
+                "DATE": null,
+                "SLICE_ARRAY": null
+            }
+        }
+    }
+}
