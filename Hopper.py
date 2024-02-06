@@ -1,6 +1,8 @@
 import requests
 import json
 
+
+'''
 url = "https://hopper.com/api/v4/shopSummary"
 
 payload = json.dumps({
@@ -47,4 +49,65 @@ headers = {
 
 response = requests.request("POST", url, headers=headers, data=payload)
 
-print(response.text)
+#print(response.text)
+
+data = response.json()  # Extracting JSON data from response
+
+for itinerary in data['itineraries']:
+    for pricing_option in itinerary['pricing_options']:
+        price_amount = pricing_option['price'].get('amount')
+        if price_amount is not None:
+            res.append(price_amount)
+
+print(res) '''
+
+
+#using json
+
+
+import json
+
+slice_ids = []
+with open('Hopper_json.json', 'r') as file:
+
+    json_data = file.read()
+
+    data = json.loads(json_data)
+    
+    # fareSlices object
+    fare_slices = data['value']['flights']['fareSlices']
+    
+    # Iterate over each fareSlice
+    for fare_slice_id, fare_slice_data in fare_slices.items():
+        slice_value = fare_slice_data['slice']
+        slice_ids.append(slice_value)
+
+    slice_data_dict = {}
+    slices = data['value']['flights']['slices']
+    
+    # Iterate over each selected slice ID
+    for slice_id in slice_ids:
+
+        if slice_id in slices:
+            slice_data = slices[slice_id]
+            price = slice_data['lowestPrice']
+            origin = slice_data['origin']
+            departure = slice_data['departure']
+            arrival = slice_data['arrival']
+            destination = slice_data['destination']
+            
+            # Store the slice data in the dictionary
+            slice_data_dict[slice_id] = {
+                'price': price,
+                'origin': origin,
+                'departure': departure,
+                'arrival': arrival,
+                'destination': destination
+            }
+        else:
+            print(f"Slice with ID {slice_id} not found.")
+    
+    # Print the slice data dictionary
+    print("Slice Data:")
+    print(json.dumps(slice_data_dict, indent=4))
+
